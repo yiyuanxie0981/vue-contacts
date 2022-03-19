@@ -1,31 +1,19 @@
-# contacts (contacts)
+# Vue Contacts
 
-A Quasar Project
+A Quasar Project for browsering contacts
 
-## Install the dependencies
+## Prerequisite
++ "node": ">= 10.18.1" and "< 17"
++ "npm": ">= 6.13.4"
+
+
+### Install the dependencies
 ```bash
-yarn
-# or
 npm install
 ```
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
+### Run (Start the app in development mode)
 ```bash
-quasar dev
+npm run dev
 ```
-
-
-### Lint the files
-```bash
-yarn lint
-# or
-npm run lint
-```
-
-### Build the app for production
-```bash
-quasar build
-```
-
-### Customize the configuration
-See [Configuring quasar.conf.js](https://v1.quasar.dev/quasar-cli/quasar-conf-js).
+Then enjoy by entering http://localhost:8080/#/
